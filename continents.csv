@@ -1,0 +1,631 @@
+,Entity,Code,Year,Period life expectancy at birth - Sex: all - Age: 0
+72,Africa,,1770,26.4
+73,Africa,,1925,26.4
+74,Africa,,1950,37.6235
+75,Africa,,1951,37.9309
+76,Africa,,1952,38.443
+77,Africa,,1953,38.9152
+78,Africa,,1954,39.2991
+79,Africa,,1955,39.8008
+80,Africa,,1956,40.1704
+81,Africa,,1957,40.0129
+82,Africa,,1958,40.303
+83,Africa,,1959,41.2823
+84,Africa,,1960,41.4816
+85,Africa,,1961,41.8692
+86,Africa,,1962,42.3208
+87,Africa,,1963,42.7767
+88,Africa,,1964,43.2464
+89,Africa,,1965,43.4401
+90,Africa,,1966,43.433
+91,Africa,,1967,43.6456
+92,Africa,,1968,44.1023
+93,Africa,,1969,44.3156
+94,Africa,,1970,44.7834
+95,Africa,,1971,45.322
+96,Africa,,1972,45.4068
+97,Africa,,1973,46.1543
+98,Africa,,1974,46.4601
+99,Africa,,1975,46.903
+100,Africa,,1976,47.6398
+101,Africa,,1977,48.1637
+102,Africa,,1978,48.5646
+103,Africa,,1979,49.0955
+104,Africa,,1980,49.5116
+105,Africa,,1981,49.9137
+106,Africa,,1982,50.2819
+107,Africa,,1983,49.5505
+108,Africa,,1984,49.7051
+109,Africa,,1985,50.0863
+110,Africa,,1986,50.5501
+111,Africa,,1987,50.8954
+112,Africa,,1988,50.4287
+113,Africa,,1989,51.6789
+114,Africa,,1990,51.6467
+115,Africa,,1991,51.485
+116,Africa,,1992,51.2365
+117,Africa,,1993,51.549
+118,Africa,,1994,50.5156
+119,Africa,,1995,52.1161
+120,Africa,,1996,52.128
+121,Africa,,1997,52.3075
+122,Africa,,1998,51.8964
+123,Africa,,1999,52.7745
+124,Africa,,2000,53.3498
+125,Africa,,2001,53.6201
+126,Africa,,2002,53.9987
+127,Africa,,2003,54.4224
+128,Africa,,2004,54.8957
+129,Africa,,2005,55.4669
+130,Africa,,2006,56.1389
+131,Africa,,2007,56.73
+132,Africa,,2008,57.3081
+133,Africa,,2009,58.0158
+134,Africa,,2010,58.608
+135,Africa,,2011,59.2511
+136,Africa,,2012,59.8106
+137,Africa,,2013,60.2924
+138,Africa,,2014,60.7463
+139,Africa,,2015,61.1288
+140,Africa,,2016,61.588
+141,Africa,,2017,61.9858
+142,Africa,,2018,62.3435
+143,Africa,,2019,62.688
+144,Africa,,2020,62.2342
+145,Africa,,2021,61.6609
+365,Americas,,1770,34.8
+366,Americas,,1830,34.8
+367,Americas,,1850,35.1
+368,Americas,,1870,35.1
+369,Americas,,1900,41.0
+370,Americas,,1913,45.1
+371,Americas,,1950,58.116535
+372,Americas,,1951,58.380806
+373,Americas,,1952,58.803745
+374,Americas,,1953,59.247337
+375,Americas,,1954,59.963135
+376,Americas,,1955,60.246532
+377,Americas,,1956,60.603485
+378,Americas,,1957,60.745056
+379,Americas,,1958,61.212376
+380,Americas,,1959,61.558346
+381,Americas,,1960,61.80732
+382,Americas,,1961,62.25979
+383,Americas,,1962,62.41015
+384,Americas,,1963,62.526306
+385,Americas,,1964,62.89323
+386,Americas,,1965,63.09759
+387,Americas,,1966,63.272923
+388,Americas,,1967,63.578182
+389,Americas,,1968,63.6167
+390,Americas,,1969,63.889507
+391,Americas,,1970,63.97181
+392,Americas,,1971,64.60218
+393,Americas,,1972,64.801865
+394,Americas,,1973,65.18238
+395,Americas,,1974,65.608505
+396,Americas,,1975,66.12243
+397,Americas,,1976,66.33444
+398,Americas,,1977,66.80778
+399,Americas,,1978,67.07002
+400,Americas,,1979,67.413704
+401,Americas,,1980,67.60014
+402,Americas,,1981,68.02618
+403,Americas,,1982,68.32327
+404,Americas,,1983,68.70117
+405,Americas,,1984,68.98525
+406,Americas,,1985,69.16918
+407,Americas,,1986,69.55379
+408,Americas,,1987,69.86552
+409,Americas,,1988,70.1082
+410,Americas,,1989,70.418915
+411,Americas,,1990,70.69617
+412,Americas,,1991,70.97822
+413,Americas,,1992,71.280075
+414,Americas,,1993,71.40328
+415,Americas,,1994,71.70575
+416,Americas,,1995,71.9336
+417,Americas,,1996,72.28241
+418,Americas,,1997,72.612305
+419,Americas,,1998,72.821526
+420,Americas,,1999,73.09786
+421,Americas,,2000,73.349495
+422,Americas,,2001,73.56241
+423,Americas,,2002,73.80509
+424,Americas,,2003,73.97127
+425,Americas,,2004,74.324066
+426,Americas,,2005,74.57749
+427,Americas,,2006,74.82221
+428,Americas,,2007,74.99746
+429,Americas,,2008,75.186874
+430,Americas,,2009,75.45351
+431,Americas,,2010,75.345955
+432,Americas,,2011,75.78988
+433,Americas,,2012,75.98362
+434,Americas,,2013,76.15026
+435,Americas,,2014,76.30933
+436,Americas,,2015,76.299194
+437,Americas,,2016,76.26651
+438,Americas,,2017,76.35949
+439,Americas,,2018,76.48758
+440,Americas,,2019,76.66325
+441,Americas,,2020,74.835236
+442,Americas,,2021,74.189156
+963,Asia,,1770,27.5
+964,Asia,,1885,27.5
+965,Asia,,1900,28.0
+966,Asia,,1913,28.1
+967,Asia,,1950,42.024
+968,Asia,,1951,42.9956
+969,Asia,,1952,44.2682
+970,Asia,,1953,44.8774
+971,Asia,,1954,45.7662
+972,Asia,,1955,46.3308
+973,Asia,,1956,46.8386
+974,Asia,,1957,47.3332
+975,Asia,,1958,47.8445
+976,Asia,,1959,44.3113
+977,Asia,,1960,41.7051
+978,Asia,,1961,45.3368
+979,Asia,,1962,49.631
+980,Asia,,1963,50.2813
+981,Asia,,1964,50.9491
+982,Asia,,1965,50.5795
+983,Asia,,1966,51.4792
+984,Asia,,1967,52.1418
+985,Asia,,1968,53.0428
+986,Asia,,1969,53.6282
+987,Asia,,1970,53.9314
+988,Asia,,1971,53.3624
+989,Asia,,1972,55.2811
+990,Asia,,1973,55.9197
+991,Asia,,1974,56.4214
+992,Asia,,1975,56.6852
+993,Asia,,1976,57.2105
+994,Asia,,1977,58.0184
+995,Asia,,1978,58.5302
+996,Asia,,1979,59.1162
+997,Asia,,1980,59.6039
+998,Asia,,1981,60.1084
+999,Asia,,1982,60.6145
+1000,Asia,,1983,61.0726
+1001,Asia,,1984,61.5409
+1002,Asia,,1985,61.9822
+1003,Asia,,1986,62.4858
+1004,Asia,,1987,62.938
+1005,Asia,,1988,63.2672
+1006,Asia,,1989,63.7009
+1007,Asia,,1990,64.0389
+1008,Asia,,1991,64.2294
+1009,Asia,,1992,64.7535
+1010,Asia,,1993,65.1086
+1011,Asia,,1994,65.4131
+1012,Asia,,1995,65.6966
+1013,Asia,,1996,65.9998
+1014,Asia,,1997,66.4141
+1015,Asia,,1998,66.8629
+1016,Asia,,1999,67.2127
+1017,Asia,,2000,67.6292
+1018,Asia,,2001,68.1255
+1019,Asia,,2002,68.5285
+1020,Asia,,2003,68.9269
+1021,Asia,,2004,69.1634
+1022,Asia,,2005,69.615
+1023,Asia,,2006,70.0502
+1024,Asia,,2007,70.3458
+1025,Asia,,2008,70.5111
+1026,Asia,,2009,70.9919
+1027,Asia,,2010,71.3472
+1028,Asia,,2011,71.6749
+1029,Asia,,2012,72.0416
+1030,Asia,,2013,72.3901
+1031,Asia,,2014,72.7841
+1032,Asia,,2015,73.1205
+1033,Asia,,2016,73.4446
+1034,Asia,,2017,73.681
+1035,Asia,,2018,73.9909
+1036,Asia,,2019,74.1876
+1037,Asia,,2020,73.7415
+1038,Asia,,2021,72.5321
+1039,Australia,AUS,1885,49.05
+1040,Australia,AUS,1895,52.95
+1041,Australia,AUS,1905,57.0
+1042,Australia,AUS,1921,60.97
+1043,Australia,AUS,1922,62.83
+1044,Australia,AUS,1923,61.68
+1045,Australia,AUS,1924,62.48
+1046,Australia,AUS,1925,63.17
+1047,Australia,AUS,1926,62.88
+1048,Australia,AUS,1927,62.84
+1049,Australia,AUS,1928,62.91
+1050,Australia,AUS,1929,63.08
+1051,Australia,AUS,1930,64.9
+1052,Australia,AUS,1931,65.32
+1053,Australia,AUS,1932,65.6
+1054,Australia,AUS,1933,65.43
+1055,Australia,AUS,1934,64.79
+1056,Australia,AUS,1935,65.05
+1057,Australia,AUS,1936,65.19
+1058,Australia,AUS,1937,65.74
+1059,Australia,AUS,1938,65.76
+1060,Australia,AUS,1939,65.73
+1061,Australia,AUS,1940,66.16
+1062,Australia,AUS,1941,66.04
+1063,Australia,AUS,1942,65.79
+1064,Australia,AUS,1943,66.33
+1065,Australia,AUS,1944,67.96
+1066,Australia,AUS,1945,68.38
+1067,Australia,AUS,1946,67.92
+1068,Australia,AUS,1947,68.52
+1069,Australia,AUS,1948,68.47
+1070,Australia,AUS,1949,69.09
+1071,Australia,AUS,1950,69.0
+1072,Australia,AUS,1951,68.6998
+1073,Australia,AUS,1952,69.1132
+1074,Australia,AUS,1953,69.6919
+1075,Australia,AUS,1954,69.8604
+1076,Australia,AUS,1955,70.1578
+1077,Australia,AUS,1956,70.0382
+1078,Australia,AUS,1957,70.3181
+1079,Australia,AUS,1958,70.862
+1080,Australia,AUS,1959,70.4457
+1081,Australia,AUS,1960,70.8657
+1082,Australia,AUS,1961,71.1353
+1083,Australia,AUS,1962,70.9067
+1084,Australia,AUS,1963,70.9614
+1085,Australia,AUS,1964,70.5726
+1086,Australia,AUS,1965,70.8031
+1087,Australia,AUS,1966,70.6785
+1088,Australia,AUS,1967,71.0479
+1089,Australia,AUS,1968,70.6811
+1090,Australia,AUS,1969,71.0722
+1091,Australia,AUS,1970,70.6537
+1092,Australia,AUS,1971,71.452
+1093,Australia,AUS,1972,71.7697
+1094,Australia,AUS,1973,72.0599
+1095,Australia,AUS,1974,71.851
+1096,Australia,AUS,1975,72.786
+1097,Australia,AUS,1976,72.7895
+1098,Australia,AUS,1977,73.4736
+1099,Australia,AUS,1978,73.7431
+1100,Australia,AUS,1979,74.3293
+1101,Australia,AUS,1980,74.5676
+1102,Australia,AUS,1981,74.7846
+1103,Australia,AUS,1982,74.7208
+1104,Australia,AUS,1983,75.4425
+1105,Australia,AUS,1984,75.5121
+1106,Australia,AUS,1985,75.4328
+1107,Australia,AUS,1986,76.0742
+1108,Australia,AUS,1987,76.0862
+1109,Australia,AUS,1988,76.347
+1110,Australia,AUS,1989,76.2005
+1111,Australia,AUS,1990,77.0443
+1112,Australia,AUS,1991,77.4831
+1113,Australia,AUS,1992,77.4765
+1114,Australia,AUS,1993,78.0098
+1115,Australia,AUS,1994,77.8558
+1116,Australia,AUS,1995,78.2619
+1117,Australia,AUS,1996,78.3492
+1118,Australia,AUS,1997,78.6317
+1119,Australia,AUS,1998,79.0275
+1120,Australia,AUS,1999,79.2855
+1121,Australia,AUS,2000,79.6309
+1122,Australia,AUS,2001,80.0165
+1123,Australia,AUS,2002,80.0639
+1124,Australia,AUS,2003,80.4549
+1125,Australia,AUS,2004,80.7512
+1126,Australia,AUS,2005,81.1126
+1127,Australia,AUS,2006,81.2822
+1128,Australia,AUS,2007,81.2603
+1129,Australia,AUS,2008,81.4589
+1130,Australia,AUS,2009,81.7661
+1131,Australia,AUS,2010,82.055
+1132,Australia,AUS,2011,82.1336
+1133,Australia,AUS,2012,82.3456
+1134,Australia,AUS,2013,82.6041
+1135,Australia,AUS,2014,82.5677
+1136,Australia,AUS,2015,82.6552
+1137,Australia,AUS,2016,82.8707
+1138,Australia,AUS,2017,83.0006
+1139,Australia,AUS,2018,83.3871
+1140,Australia,AUS,2019,83.11
+1141,Australia,AUS,2020,84.3239
+1142,Australia,AUS,2021,84.5265
+5671,Europe,,1770,34.3
+5672,Europe,,1800,33.3
+5673,Europe,,1820,35.6
+5674,Europe,,1850,36.3
+5675,Europe,,1870,36.2
+5676,Europe,,1900,42.7
+5677,Europe,,1913,46.8
+5678,Europe,,1950,62.8339
+5679,Europe,,1951,62.8139
+5680,Europe,,1952,64.0474
+5681,Europe,,1953,64.6766
+5682,Europe,,1954,65.4561
+5683,Europe,,1955,66.0483
+5684,Europe,,1956,66.9404
+5685,Europe,,1957,66.9463
+5686,Europe,,1958,68.1967
+5687,Europe,,1959,68.1442
+5688,Europe,,1960,68.7532
+5689,Europe,,1961,69.0898
+5690,Europe,,1962,68.8944
+5691,Europe,,1963,69.2004
+5692,Europe,,1964,69.8664
+5693,Europe,,1965,69.7955
+5694,Europe,,1966,70.0242
+5695,Europe,,1967,70.0139
+5696,Europe,,1968,69.9132
+5697,Europe,,1969,69.6398
+5698,Europe,,1970,69.9716
+5699,Europe,,1971,70.1067
+5700,Europe,,1972,70.3388
+5701,Europe,,1973,70.4014
+5702,Europe,,1974,70.6441
+5703,Europe,,1975,70.5324
+5704,Europe,,1976,70.6257
+5705,Europe,,1977,70.8735
+5706,Europe,,1978,70.8856
+5707,Europe,,1979,70.9521
+5708,Europe,,1980,70.9463
+5709,Europe,,1981,71.2414
+5710,Europe,,1982,71.5347
+5711,Europe,,1983,71.4905
+5712,Europe,,1984,71.6044
+5713,Europe,,1985,71.7494
+5714,Europe,,1986,72.524
+5715,Europe,,1987,72.702
+5716,Europe,,1988,72.8128
+5717,Europe,,1989,72.9362
+5718,Europe,,1990,72.8843
+5719,Europe,,1991,72.869
+5720,Europe,,1992,72.6774
+5721,Europe,,1993,72.0794
+5722,Europe,,1994,72.0876
+5723,Europe,,1995,72.1867
+5724,Europe,,1996,72.7376
+5725,Europe,,1997,73.248
+5726,Europe,,1998,73.5686
+5727,Europe,,1999,73.3644
+5728,Europe,,2000,73.5229
+5729,Europe,,2001,73.7801
+5730,Europe,,2002,73.7608
+5731,Europe,,2003,73.8379
+5732,Europe,,2004,74.3786
+5733,Europe,,2005,74.5083
+5734,Europe,,2006,75.1649
+5735,Europe,,2007,75.5532
+5736,Europe,,2008,75.8491
+5737,Europe,,2009,76.2941
+5738,Europe,,2010,76.5463
+5739,Europe,,2011,77.0825
+5740,Europe,,2012,77.253
+5741,Europe,,2013,77.5811
+5742,Europe,,2014,77.9223
+5743,Europe,,2015,77.9916
+5744,Europe,,2016,78.4272
+5745,Europe,,2017,78.6625
+5746,Europe,,2018,78.7879
+5747,Europe,,2019,79.1221
+5748,Europe,,2020,77.7401
+5749,Europe,,2021,77.0336
+9851,Latin America and the Caribbean,,1950,48.5587
+9852,Latin America and the Caribbean,,1951,49.0456
+9853,Latin America and the Caribbean,,1952,49.7732
+9854,Latin America and the Caribbean,,1953,50.3947
+9855,Latin America and the Caribbean,,1954,51.1016
+9856,Latin America and the Caribbean,,1955,51.6586
+9857,Latin America and the Caribbean,,1956,52.3391
+9858,Latin America and the Caribbean,,1957,52.867
+9859,Latin America and the Caribbean,,1958,53.5489
+9860,Latin America and the Caribbean,,1959,54.073
+9861,Latin America and the Caribbean,,1960,54.6554
+9862,Latin America and the Caribbean,,1961,55.2229
+9863,Latin America and the Caribbean,,1962,55.692
+9864,Latin America and the Caribbean,,1963,56.1194
+9865,Latin America and the Caribbean,,1964,56.6476
+9866,Latin America and the Caribbean,,1965,57.057
+9867,Latin America and the Caribbean,,1966,57.4856
+9868,Latin America and the Caribbean,,1967,57.8762
+9869,Latin America and the Caribbean,,1968,58.2486
+9870,Latin America and the Caribbean,,1969,58.5994
+9871,Latin America and the Caribbean,,1970,58.6098
+9872,Latin America and the Caribbean,,1971,59.5052
+9873,Latin America and the Caribbean,,1972,59.8733
+9874,Latin America and the Caribbean,,1973,60.4398
+9875,Latin America and the Caribbean,,1974,60.8618
+9876,Latin America and the Caribbean,,1975,61.4061
+9877,Latin America and the Caribbean,,1976,61.6083
+9878,Latin America and the Caribbean,,1977,62.2139
+9879,Latin America and the Caribbean,,1978,62.578
+9880,Latin America and the Caribbean,,1979,62.9213
+9881,Latin America and the Caribbean,,1980,63.332
+9882,Latin America and the Caribbean,,1981,63.8252
+9883,Latin America and the Caribbean,,1982,64.1392
+9884,Latin America and the Caribbean,,1983,64.7356
+9885,Latin America and the Caribbean,,1984,65.1563
+9886,Latin America and the Caribbean,,1985,65.5124
+9887,Latin America and the Caribbean,,1986,66.1232
+9888,Latin America and the Caribbean,,1987,66.5712
+9889,Latin America and the Caribbean,,1988,67.0052
+9890,Latin America and the Caribbean,,1989,67.3603
+9891,Latin America and the Caribbean,,1990,67.6589
+9892,Latin America and the Caribbean,,1991,68.0346
+9893,Latin America and the Caribbean,,1992,68.3768
+9894,Latin America and the Caribbean,,1993,68.7119
+9895,Latin America and the Caribbean,,1994,69.1057
+9896,Latin America and the Caribbean,,1995,69.4126
+9897,Latin America and the Caribbean,,1996,69.7927
+9898,Latin America and the Caribbean,,1997,70.1438
+9899,Latin America and the Caribbean,,1998,70.3878
+9900,Latin America and the Caribbean,,1999,70.8212
+9901,Latin America and the Caribbean,,2000,71.1372
+9902,Latin America and the Caribbean,,2001,71.408
+9903,Latin America and the Caribbean,,2002,71.7569
+9904,Latin America and the Caribbean,,2003,71.9366
+9905,Latin America and the Caribbean,,2004,72.2702
+9906,Latin America and the Caribbean,,2005,72.6734
+9907,Latin America and the Caribbean,,2006,72.8935
+9908,Latin America and the Caribbean,,2007,73.0341
+9909,Latin America and the Caribbean,,2008,73.2759
+9910,Latin America and the Caribbean,,2009,73.4868
+9911,Latin America and the Caribbean,,2010,73.1946
+9912,Latin America and the Caribbean,,2011,73.8669
+9913,Latin America and the Caribbean,,2012,74.1009
+9914,Latin America and the Caribbean,,2013,74.3593
+9915,Latin America and the Caribbean,,2014,74.5759
+9916,Latin America and the Caribbean,,2015,74.6372
+9917,Latin America and the Caribbean,,2016,74.5929
+9918,Latin America and the Caribbean,,2017,74.7561
+9919,Latin America and the Caribbean,,2018,74.8705
+9920,Latin America and the Caribbean,,2019,75.0547
+9921,Latin America and the Caribbean,,2020,73.0946
+9922,Latin America and the Caribbean,,2021,72.1639
+13817,Northern America,,1950,68.0427
+13818,Northern America,,1951,68.1712
+13819,Northern America,,1952,68.3659
+13820,Northern America,,1953,68.7044
+13821,Northern America,,1954,69.5042
+13822,Northern America,,1955,69.5623
+13823,Northern America,,1956,69.6395
+13824,Northern America,,1957,69.4315
+13825,Northern America,,1958,69.7232
+13826,Northern America,,1959,69.9396
+13827,Northern America,,1960,69.9013
+13828,Northern America,,1961,70.3119
+13829,Northern America,,1962,70.1879
+13830,Northern America,,1963,70.0354
+13831,Northern America,,1964,70.3075
+13832,Northern America,,1965,70.3669
+13833,Northern America,,1966,70.3407
+13834,Northern America,,1967,70.6486
+13835,Northern America,,1968,70.3734
+13836,Northern America,,1969,70.6419
+13837,Northern America,,1970,70.8965
+13838,Northern America,,1971,71.2563
+13839,Northern America,,1972,71.3165
+13840,Northern America,,1973,71.5377
+13841,Northern America,,1974,72.0587
+13842,Northern America,,1975,72.6188
+13843,Northern America,,1976,72.9321
+13844,Northern America,,1977,73.304
+13845,Northern America,,1978,73.4991
+13846,Northern America,,1979,73.9161
+13847,Northern America,,1980,73.842
+13848,Northern America,,1981,74.2328
+13849,Northern America,,1982,74.5705
+13850,Northern America,,1983,74.6848
+13851,Northern America,,1984,74.8235
+13852,Northern America,,1985,74.8015
+13853,Northern America,,1986,74.8891
+13854,Northern America,,1987,75.0368
+13855,Northern America,,1988,75.0212
+13856,Northern America,,1989,75.2974
+13857,Northern America,,1990,75.5689
+13858,Northern America,,1991,75.723
+13859,Northern America,,1992,75.9785
+13860,Northern America,,1993,75.7757
+13861,Northern America,,1994,75.9473
+13862,Northern America,,1995,76.0639
+13863,Northern America,,1996,76.3785
+13864,Northern America,,1997,76.6885
+13865,Northern America,,1998,76.8541
+13866,Northern America,,1999,76.8832
+13867,Northern America,,2000,77.0402
+13868,Northern America,,2001,77.1684
+13869,Northern America,,2002,77.2454
+13870,Northern America,,2003,77.4009
+13871,Northern America,,2004,77.7964
+13872,Northern America,,2005,77.8049
+13873,Northern America,,2006,78.0985
+13874,Northern America,,2007,78.3381
+13875,Northern America,,2008,78.443
+13876,Northern America,,2009,78.81
+13877,Northern America,,2010,79.0256
+13878,Northern America,,2011,79.0867
+13879,Northern America,,2012,79.2181
+13880,Northern America,,2013,79.2331
+13881,Northern America,,2014,79.2992
+13882,Northern America,,2015,79.172
+13883,Northern America,,2016,79.1645
+13884,Northern America,,2017,79.1397
+13885,Northern America,,2018,79.2957
+13886,Northern America,,2019,79.4605
+13887,Northern America,,2020,77.8693
+13888,Northern America,,2021,77.7299
+14165,Oceania,,1870,34.7
+14166,Oceania,,1900,47.6
+14167,Oceania,,1913,51.0
+14168,Oceania,,1950,61.3765
+14169,Oceania,,1951,60.6257
+14170,Oceania,,1952,62.0007
+14171,Oceania,,1953,62.6812
+14172,Oceania,,1954,63.0101
+14173,Oceania,,1955,63.439
+14174,Oceania,,1956,63.568
+14175,Oceania,,1957,63.9857
+14176,Oceania,,1958,64.6175
+14177,Oceania,,1959,64.5362
+14178,Oceania,,1960,65.0507
+14179,Oceania,,1961,65.3987
+14180,Oceania,,1962,65.3939
+14181,Oceania,,1963,65.6586
+14182,Oceania,,1964,65.4896
+14183,Oceania,,1965,65.8003
+14184,Oceania,,1966,65.8367
+14185,Oceania,,1967,66.3286
+14186,Oceania,,1968,66.2451
+14187,Oceania,,1969,66.7376
+14188,Oceania,,1970,66.6238
+14189,Oceania,,1971,67.4401
+14190,Oceania,,1972,67.7967
+14191,Oceania,,1973,68.0447
+14192,Oceania,,1974,68.0624
+14193,Oceania,,1975,68.7719
+14194,Oceania,,1976,68.898
+14195,Oceania,,1977,69.4049
+14196,Oceania,,1978,69.8176
+14197,Oceania,,1979,70.2951
+14198,Oceania,,1980,70.4926
+14199,Oceania,,1981,70.8712
+14200,Oceania,,1982,70.9191
+14201,Oceania,,1983,71.4904
+14202,Oceania,,1984,71.6726
+14203,Oceania,,1985,71.6469
+14204,Oceania,,1986,72.116
+14205,Oceania,,1987,72.2009
+14206,Oceania,,1988,72.466
+14207,Oceania,,1989,72.4899
+14208,Oceania,,1990,73.1943
+14209,Oceania,,1991,73.5738
+14210,Oceania,,1992,73.6344
+14211,Oceania,,1993,74.0341
+14212,Oceania,,1994,73.9893
+14213,Oceania,,1995,74.2723
+14214,Oceania,,1996,74.3074
+14215,Oceania,,1997,74.5775
+14216,Oceania,,1998,74.7128
+14217,Oceania,,1999,75.076
+14218,Oceania,,2000,75.3603
+14219,Oceania,,2001,75.5628
+14220,Oceania,,2002,75.5341
+14221,Oceania,,2003,75.8341
+14222,Oceania,,2004,76.0241
+14223,Oceania,,2005,76.3515
+14224,Oceania,,2006,76.4643
+14225,Oceania,,2007,76.4922
+14226,Oceania,,2008,76.7775
+14227,Oceania,,2009,77.042
+14228,Oceania,,2010,77.361
+14229,Oceania,,2011,77.4843
+14230,Oceania,,2012,77.6902
+14231,Oceania,,2013,77.9574
+14232,Oceania,,2014,77.9842
+14233,Oceania,,2015,78.1624
+14234,Oceania,,2016,78.3537
+14235,Oceania,,2017,78.5432
+14236,Oceania,,2018,78.8271
+14237,Oceania,,2019,78.7485
+14238,Oceania,,2020,79.4958
+14239,Oceania,,2021,79.4444
