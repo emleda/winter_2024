@@ -1298,8 +1298,12 @@
           <filter class='categorical' column='[federated.04yfxlr1gztepq15hbprv0irerw4].[none:Continent:nk]'>
             <groupfilter function='member' level='[none:Continent:nk]' member='&quot;Africa&quot;' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
           </filter>
+          <filter class='categorical' column='[federated.04yfxlr1gztepq15hbprv0irerw4].[none:Entity:nk]'>
+            <groupfilter function='member' level='[none:Entity:nk]' member='&quot;Sudan&quot;' user:ui-domain='relevant' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
+          </filter>
           <slices>
             <column>[federated.04yfxlr1gztepq15hbprv0irerw4].[none:Continent:nk]</column>
+            <column>[federated.04yfxlr1gztepq15hbprv0irerw4].[none:Entity:nk]</column>
           </slices>
           <aggregation value='true' />
         </view>
@@ -1806,7 +1810,7 @@
       <active id='-1' />
       <simple-id uuid='{BACB84F7-BA72-4E6C-B78F-FF53DEF3787D}' />
     </window>
-    <window class='worksheet' name='Africa'>
+    <window class='worksheet' maximized='true' name='Africa'>
       <cards>
         <edge name='left'>
           <strip size='160'>
@@ -1862,7 +1866,7 @@
       </cards>
       <simple-id uuid='{5F51AE82-FB29-4D78-9392-C1F2841ACB74}' />
     </window>
-    <window class='worksheet' maximized='true' name='Asia'>
+    <window class='worksheet' name='Asia'>
       <cards>
         <edge name='left'>
           <strip size='160'>
