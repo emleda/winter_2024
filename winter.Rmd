@@ -1,0 +1,50 @@
+---
+title: "Winter Challenge"
+output: html_document
+date: "2024-07-23"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(reticulate)
+```
+
+# Cleaning
+
+## Original Dataset
+```{python}
+import pandas as pd
+import country_converter as coco
+import numpy as np
+
+#load inital dataset
+raw = pd.read_csv("life-expectancy.csv")
+
+#define entity categories
+continent = ['Americas', 'Africa', 'Asia', 'Europe', 'Latin America and the Caribbean', 'Northern America', 'Oceania']
+income_groups = ['High-income countries', 'Upper-middle-income countries', 'Middle-income countries', 'Lower-middle-income countries', 'Low-income countries', 'No income group available']
+development = ['More developed regions', 'Small Island Developing States (SIDS)', 'Less developed regions', 'Less developed regions, excluding China', 'Less developed regions, excluding least developed countries', 'Least developed countries', 'Land-locked Developing Countries (LLDC)']
+
+#create new df for continents, income level, development status
+continents = raw[raw['Entity'].isin(continent) == True]
+income = raw[raw['Entity'].isin(income_groups) == True]
+develop = raw[raw['Entity'].isin(development) == True]
+
+#create new df for countries
+countries = raw[raw['Entity'].isin(development) == False]
+countries = countries[countries['Entity'].isin(income_groups) == False]
+countries = countries[countries['Entity'].isin(continent) == False]
+
+#add continent column for countries df
+converter = coco.CountryConverter()
+countries['Continent'] = converter.convert(names=countries['Code'], src="ISO3", to="continent")
+
+#find countries without continent match
+a = countries[countries['Code'].isna() == True]
+a = a[['Entity', 'Code']]
+grouped = a.groupby(by="Entity").sum()
+
+#update continent column
+countries['Continent'] = countries['Continent'].str.replace('not found', 'Europe')
+```
+

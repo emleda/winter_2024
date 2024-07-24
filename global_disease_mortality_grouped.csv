@@ -1,0 +1,231 @@
+,cause_name,2010 (ASMR),2019 (ASMR),2020 (ASMR),2021 (ASMR),change
+0,Acute glomerulonephritis,0.15,0.14,0.14,0.13,-0.01999999999999999
+1,Acute hepatitis A,0.93,0.42,0.38,0.35,-0.5800000000000001
+2,Acute hepatitis B,0.63,0.49,0.47,0.45,-0.18
+3,Acute hepatitis C,0.1,0.07,0.07,0.07,-0.03
+4,Acute hepatitis E,0.05,0.05,0.05,0.05,0.0
+5,Acute lymphoid leukemia,1.1,0.95,0.91,0.9,-0.20000000000000007
+6,Acute myeloid leukemia,1.69,1.61,1.58,1.57,-0.11999999999999988
+7,Adverse effects of medical treatment,1.74,1.62,1.57,1.53,-0.20999999999999996
+8,African trypanosomiasis,0.08,0.01,0.01,0.01,-0.07
+9,Alcohol use disorders,2.32,1.91,1.87,1.84,-0.47999999999999976
+10,Alcoholic cardiomyopathy,1.66,0.77,0.76,0.74,-0.9199999999999999
+11,Alzheimer's disease and other dementias,24.94,25.0,24.95,25.2,0.259999999999998
+12,Amphetamine use disorders,0.09,0.11,0.12,0.12,0.03
+13,Anorexia nervosa,0.0,0.0,0.0,0.0,0.0
+14,Aortic aneurysm,2.07,1.9,1.87,1.86,-0.20999999999999974
+15,Appendicitis,0.5,0.38,0.37,0.36,-0.14
+16,Asbestosis,0.05,0.04,0.04,0.04,-0.010000000000000002
+17,Ascariasis,0.1,0.06,0.06,0.05,-0.05
+18,Asthma,6.43,5.51,5.34,5.2,-1.2299999999999995
+19,Atrial fibrillation and flutter,4.4,4.45,4.4,4.36,-0.040000000000000036
+20,Bladder cancer,2.94,2.74,2.71,2.68,-0.2599999999999998
+21,Brain and central nervous system cancer,3.15,3.12,3.07,3.06,-0.08999999999999986
+22,Breast cancer,8.13,7.99,7.9,7.9,-0.23000000000000043
+23,Burkitt lymphoma,0.09,0.09,0.09,0.09,0.0
+24,COVID-19,0.0,0.0,58.68,93.98,93.98
+25,Cellulitis,0.34,0.38,0.37,0.35,0.009999999999999953
+26,Cervical cancer,3.7,3.51,3.46,3.44,-0.26000000000000023
+27,Chagas disease,0.13,0.1,0.1,0.09,-0.04000000000000001
+28,Chlamydial infection,0.01,0.01,0.01,0.01,0.0
+29,Chronic hepatitis B including cirrhosis,6.37,5.15,5.09,5.03,-1.3399999999999999
+30,Chronic hepatitis C including cirrhosis,5.14,4.4,4.34,4.29,-0.8499999999999996
+31,Chronic kidney disease due to diabetes mellitus type 1,1.06,1.08,1.08,1.08,0.020000000000000018
+32,Chronic kidney disease due to diabetes mellitus type 2,5.27,5.73,5.73,5.72,0.4500000000000002
+33,Chronic kidney disease due to glomerulonephritis,2.23,2.35,2.35,2.34,0.10999999999999988
+34,Chronic kidney disease due to hypertension,5.2,5.58,5.56,5.54,0.33999999999999986
+35,Chronic kidney disease due to other and unspecified causes,3.79,3.88,3.86,3.81,0.020000000000000018
+36,Chronic lymphoid leukemia,0.68,0.57,0.56,0.55,-0.13
+37,Chronic myeloid leukemia,0.35,0.29,0.28,0.28,-0.06999999999999995
+38,Chronic obstructive pulmonary disease,52.39,46.09,45.54,45.21,-7.18
+39,Cirrhosis due to alcohol,4.88,4.22,4.14,4.08,-0.7999999999999998
+40,Cirrhosis due to other causes,2.57,2.17,2.12,2.09,-0.48
+41,Coal workers pneumoconiosis,0.04,0.03,0.03,0.03,-0.010000000000000002
+42,Cocaine use disorders,0.11,0.15,0.15,0.15,0.039999999999999994
+43,Colon and rectum cancer,13.37,12.61,12.45,12.4,-0.9699999999999989
+44,Conflict and terrorism,0.76,1.51,1.15,1.26,0.5
+45,Congenital heart anomalies,5.4,4.27,4.03,3.86,-1.5400000000000005
+46,Congenital musculoskeletal and limb anomalies,0.25,0.22,0.21,0.21,-0.04000000000000001
+47,Crohn's disease,0.08,0.07,0.07,0.07,-0.009999999999999995
+48,Cyclist road injuries,0.96,0.81,0.81,0.81,-0.1499999999999999
+49,Cystic echinococcosis,0.03,0.02,0.02,0.02,-0.009999999999999998
+50,Cysticercosis,0.03,0.02,0.02,0.02,-0.009999999999999998
+51,Decubitus ulcer,0.43,0.46,0.46,0.46,0.030000000000000027
+52,Dengue,0.41,0.41,0.39,0.38,-0.02999999999999997
+53,Diabetes mellitus type 1,0.66,0.61,0.6,0.59,-0.07000000000000006
+54,Diabetes mellitus type 2,18.45,19.19,19.11,19.02,0.5700000000000003
+55,Diarrheal diseases,28.79,17.14,16.13,15.44,-13.35
+56,Digestive congenital anomalies,0.93,0.83,0.8,0.77,-0.16000000000000003
+57,Diphtheria,0.13,0.07,0.07,0.06,-0.07
+58,Down syndrome,0.43,0.45,0.44,0.43,0.0
+59,Drowning,5.31,3.87,3.68,3.56,-1.7499999999999996
+60,Drug-susceptible tuberculosis,19.56,13.46,12.98,12.59,-6.969999999999999
+61,Ebola,0.0,0.05,0.0,0.0,0.0
+62,Ectopic pregnancy,0.08,0.08,0.08,0.08,0.0
+63,Electrocution,0.63,0.45,0.43,0.42,-0.21000000000000002
+64,Encephalitis,1.32,1.24,1.22,1.19,-0.13000000000000012
+65,Endocarditis,1.06,1.0,0.98,0.96,-0.10000000000000009
+66,Endometriosis,0.0,0.0,0.0,0.0,0.0
+67,Environmental heat and cold exposure,0.75,0.49,0.52,0.43,-0.32
+68,Esophageal cancer,7.18,6.28,6.26,6.26,-0.9199999999999999
+69,Exposure to forces of nature,3.68,0.13,0.12,0.12,-3.56
+70,Extensively drug-resistant tuberculosis,0.12,0.1,0.1,0.09,-0.03
+71,Falls,10.37,10.27,10.1,9.95,-0.41999999999999993
+72,"Fire, heat, and hot substances",1.98,1.54,1.5,1.48,-0.5
+73,Foreign body in other body part,0.05,0.04,0.04,0.04,-0.010000000000000002
+74,G6PD deficiency,0.11,0.1,0.1,0.1,-0.009999999999999995
+75,Gallbladder and biliary diseases,1.7,1.66,1.64,1.62,-0.07999999999999985
+76,Gallbladder and biliary tract cancer,2.21,2.07,2.05,2.04,-0.16999999999999993
+77,Gastritis and duodenitis,0.67,0.54,0.53,0.52,-0.15000000000000002
+78,Genital prolapse,0.01,0.01,0.01,0.01,0.0
+79,Gonococcal infection,0.01,0.01,0.01,0.01,0.0
+80,HIV/AIDS - Drug-susceptible Tuberculosis,5.31,2.53,2.37,2.22,-3.0899999999999994
+81,HIV/AIDS - Extensively drug-resistant Tuberculosis,0.02,0.01,0.01,0.01,-0.01
+82,HIV/AIDS - Multidrug-resistant Tuberculosis without extensive drug resistance,0.46,0.24,0.22,0.21,-0.25
+83,HIV/AIDS resulting in other diseases,10.94,7.01,6.66,6.27,-4.67
+84,Hemolytic disease and other neonatal jaundice,0.89,0.61,0.57,0.54,-0.35
+85,Hepatoblastoma,0.05,0.04,0.04,0.04,-0.010000000000000002
+86,Hodgkin lymphoma,0.4,0.35,0.35,0.34,-0.06
+87,Hypertensive heart disease,17.36,16.9,16.72,16.32,-1.0399999999999991
+88,Idiopathic epilepsy,1.82,1.8,1.77,1.74,-0.08000000000000007
+89,Indirect maternal deaths,0.32,0.25,0.24,0.24,-0.08000000000000002
+90,"Inguinal, femoral, and abdominal hernia",0.7,0.63,0.61,0.6,-0.09999999999999998
+91,Interstitial lung disease and pulmonary sarcoidosis,2.19,2.36,2.31,2.28,0.08999999999999986
+92,Intracerebral hemorrhage,48.45,39.89,39.45,39.08,-9.370000000000005
+93,Invasive Non-typhoidal Salmonella (iNTS),1.32,0.92,0.9,0.88,-0.44000000000000006
+94,Ischemic heart disease,124.97,110.89,109.45,108.7,-16.269999999999996
+95,Ischemic stroke,52.44,45.06,44.57,44.18,-8.259999999999998
+96,Kidney cancer,2.06,1.95,1.92,1.91,-0.15000000000000013
+97,Larynx cancer,1.53,1.38,1.37,1.35,-0.17999999999999994
+98,Late maternal deaths,0.08,0.07,0.07,0.07,-0.009999999999999995
+99,Lip and oral cavity cancer,2.38,2.44,2.43,2.42,0.040000000000000036
+100,Liver cancer due to NASH,0.45,0.48,0.48,0.48,0.02999999999999997
+101,Liver cancer due to alcohol use,1.07,1.07,1.06,1.06,-0.010000000000000009
+102,Liver cancer due to hepatitis B,2.33,2.16,2.11,2.09,-0.2400000000000002
+103,Liver cancer due to hepatitis C,1.88,1.72,1.74,1.74,-0.1399999999999999
+104,Liver cancer due to other causes,0.25,0.25,0.24,0.24,-0.010000000000000009
+105,Lower extremity peripheral arterial disease,1.07,0.87,0.86,0.85,-0.22000000000000008
+106,Lower respiratory infections,40.93,34.69,30.43,28.66,-12.27
+107,Malaria,13.01,9.32,10.47,10.52,-2.49
+108,Malignant neoplasm of bone and articular cartilage,0.83,0.81,0.8,0.79,-0.039999999999999925
+109,Malignant skin melanoma,0.86,0.76,0.74,0.73,-0.13
+110,Maternal abortion and miscarriage,0.35,0.23,0.22,0.21,-0.13999999999999999
+111,Maternal deaths aggravated by HIV/AIDS,0.02,0.02,0.02,0.02,0.0
+112,Maternal hemorrhage,1.02,0.64,0.61,0.59,-0.43000000000000005
+113,Maternal hypertensive disorders,0.62,0.51,0.49,0.48,-0.14
+114,Maternal obstructed labor and uterine rupture,0.21,0.15,0.15,0.15,-0.06
+115,Maternal sepsis and other maternal infections,0.36,0.23,0.23,0.22,-0.13999999999999999
+116,Measles,3.1,1.4,1.04,0.85,-2.25
+117,Meningitis,4.88,3.21,3.06,2.95,-1.9299999999999997
+118,Mesothelioma,0.4,0.36,0.35,0.35,-0.050000000000000044
+119,Motor neuron disease,0.46,0.46,0.45,0.46,0.0
+120,Motor vehicle road injuries,6.38,5.48,5.38,5.37,-1.0099999999999998
+121,Motorcyclist road injuries,3.4,2.97,2.92,2.92,-0.48
+122,Multidrug-resistant tuberculosis without extensive drug resistance,1.82,1.34,1.3,1.28,-0.54
+123,Multiple myeloma,1.38,1.4,1.38,1.38,0.0
+124,Multiple sclerosis,0.21,0.2,0.19,0.19,-0.01999999999999999
+125,"Myelodysplastic, myeloproliferative, and other hematopoietic neoplasms",0.67,0.7,0.69,0.68,0.010000000000000009
+126,Myocarditis,0.54,0.41,0.41,0.4,-0.14
+127,Nasopharynx cancer,0.94,0.88,0.87,0.87,-0.06999999999999995
+128,Neonatal encephalopathy due to birth asphyxia and trauma,11.92,9.98,9.95,9.75,-2.17
+129,Neonatal preterm birth,15.14,12.61,12.31,11.93,-3.210000000000001
+130,Neonatal sepsis and other neonatal infections,4.3,3.87,3.8,3.76,-0.54
+131,Neural tube defects,1.16,0.95,0.92,0.89,-0.2699999999999999
+132,Neuroblastoma and other peripheral nervous cell tumors,0.06,0.07,0.07,0.07,0.010000000000000009
+133,Non-melanoma skin cancer (squamous-cell carcinoma),0.71,0.71,0.7,0.69,-0.020000000000000018
+134,Non-rheumatic calcific aortic valve disease,1.97,1.9,1.86,1.83,-0.1399999999999999
+135,Non-rheumatic degenerative mitral valve disease,0.5,0.47,0.46,0.46,-0.03999999999999998
+136,Non-venomous animal contact,0.15,0.12,0.12,0.12,-0.03
+137,Nonalcoholic fatty liver disease including cirrhosis,1.2,1.16,1.15,1.14,-0.06000000000000005
+138,Opioid use disorders,0.9,1.15,1.16,1.19,0.2899999999999999
+139,Orofacial clefts,0.05,0.03,0.03,0.03,-0.020000000000000004
+140,Other COVID-19 pandemic-related outcomes,0.0,0.0,16.71,32.33,32.33
+141,Other benign and in situ neoplasms,0.0,0.0,0.0,0.0,0.0
+142,Other cardiomyopathy,4.34,3.88,3.82,3.74,-0.5999999999999996
+143,Other cardiovascular and circulatory diseases,2.93,2.83,2.76,2.71,-0.2200000000000002
+144,Other chromosomal abnormalities,0.32,0.35,0.34,0.33,0.010000000000000009
+145,Other chronic respiratory diseases,0.72,0.68,0.67,0.65,-0.06999999999999995
+146,Other congenital birth defects,1.9,1.69,1.62,1.58,-0.31999999999999984
+147,Other digestive diseases,1.69,1.54,1.52,1.5,-0.18999999999999995
+148,Other direct maternal disorders,0.39,0.34,0.34,0.34,-0.04999999999999999
+149,Other drug use disorders,0.17,0.18,0.18,0.18,0.009999999999999981
+150,"Other endocrine, metabolic, blood, and immune disorders",1.72,1.83,1.78,1.76,0.040000000000000036
+151,Other exposure to mechanical forces,1.52,1.18,1.13,1.11,-0.4099999999999999
+152,Other eye cancers,0.09,0.09,0.09,0.09,0.0
+153,Other gynecological diseases,0.07,0.08,0.08,0.08,0.009999999999999995
+154,Other hemoglobinopathies and hemolytic anemias,0.49,0.45,0.44,0.43,-0.06
+155,Other intestinal infectious diseases,0.03,0.02,0.02,0.02,-0.009999999999999998
+156,Other leukemia,0.67,0.62,0.61,0.6,-0.07000000000000006
+157,Other malignant neoplasms,2.74,2.72,2.68,2.65,-0.0900000000000003
+158,Other musculoskeletal disorders,1.01,1.01,1.0,0.99,-0.020000000000000018
+159,Other neglected tropical diseases,0.29,0.31,0.31,0.3,0.010000000000000009
+160,Other neonatal disorders,4.45,3.69,3.66,3.58,-0.8700000000000001
+161,Other neurological disorders,0.67,0.89,0.87,0.87,0.19999999999999996
+162,Other non-Hodgkin lymphoma,3.32,3.17,3.12,3.1,-0.21999999999999975
+163,Other non-rheumatic valve diseases,0.02,0.03,0.03,0.02,0.0
+164,Other nutritional deficiencies,0.68,0.45,0.43,0.41,-0.2700000000000001
+165,Other pharynx cancer,1.09,1.14,1.13,1.13,0.039999999999999813
+166,Other pneumoconiosis,0.04,0.03,0.03,0.03,-0.010000000000000002
+167,Other road injuries,0.19,0.15,0.14,0.14,-0.04999999999999999
+168,Other sexually transmitted infections,0.04,0.04,0.04,0.04,0.0
+169,Other skin and subcutaneous diseases,0.07,0.09,0.09,0.09,0.01999999999999999
+170,Other transport injuries,1.23,1.0,0.95,0.96,-0.27
+171,Other unintentional injuries (internal),1.26,0.88,0.84,0.81,-0.44999999999999996
+172,Other unspecified infectious diseases,1.03,0.95,0.92,0.9,-0.13
+173,Other urinary diseases,0.59,0.57,0.56,0.56,-0.029999999999999916
+174,Otitis media,0.01,0.01,0.01,0.01,0.0
+175,Ovarian cancer,2.31,2.17,2.16,2.16,-0.1499999999999999
+176,Pancreatic cancer,5.91,6.03,5.96,5.95,0.040000000000000036
+177,Pancreatitis,1.66,1.5,1.47,1.45,-0.20999999999999996
+178,Paralytic ileus and intestinal obstruction,3.44,3.01,2.94,2.88,-0.56
+179,Paratyphoid fever,0.46,0.22,0.21,0.19,-0.27
+180,Parkinson's disease,4.9,4.88,4.84,4.81,-0.09000000000000075
+181,Pedestrian road injuries,7.59,5.68,5.47,5.34,-2.25
+182,Peptic ulcer disease,3.86,2.92,2.83,2.75,-1.1099999999999999
+183,Pertussis,2.48,2.04,1.07,0.81,-1.67
+184,Physical violence by firearm,2.34,2.22,2.16,2.14,-0.19999999999999973
+185,Physical violence by other means,2.12,1.82,1.78,1.76,-0.3600000000000001
+186,Physical violence by sharp object,1.33,1.02,1.03,1.02,-0.31000000000000005
+187,Poisoning by carbon monoxide,0.55,0.38,0.36,0.35,-0.20000000000000007
+188,Poisoning by other means,0.49,0.38,0.36,0.35,-0.14
+189,Police conflict and executions,0.12,0.21,0.15,0.15,0.03
+190,Prostate cancer,5.72,5.39,5.34,5.26,-0.45999999999999996
+191,Protein-energy malnutrition,4.6,2.94,2.75,2.61,-1.9899999999999998
+192,Pulmonary Arterial Hypertension,0.34,0.29,0.28,0.27,-0.07
+193,Pulmonary aspiration and foreign body in airway,1.59,1.42,1.39,1.37,-0.21999999999999997
+194,Pyoderma,0.54,0.62,0.61,0.58,0.039999999999999925
+195,Rabies,0.21,0.14,0.13,0.13,-0.07999999999999999
+196,Retinoblastoma,0.05,0.04,0.04,0.04,-0.010000000000000002
+197,Rheumatic heart disease,6.03,4.72,4.6,4.47,-1.5600000000000005
+198,Rheumatoid arthritis,0.5,0.46,0.45,0.45,-0.04999999999999999
+199,Schistosomiasis,0.24,0.17,0.16,0.15,-0.09
+200,Self-harm by firearm,0.82,0.72,0.7,0.69,-0.13
+201,Self-harm by other specified means,10.2,8.47,8.34,8.31,-1.8899999999999988
+202,Sickle cell disorders,0.45,0.47,0.47,0.47,0.019999999999999962
+203,Silicosis,0.16,0.13,0.12,0.12,-0.04000000000000001
+204,Soft tissue and other extraosseous sarcomas,0.64,0.62,0.61,0.6,-0.040000000000000036
+205,Stomach cancer,14.3,11.53,11.33,11.2,-3.1000000000000014
+206,Subarachnoid hemorrhage,5.03,4.32,4.24,4.19,-0.8399999999999999
+207,Sudden infant death syndrome,0.71,0.55,0.5,0.49,-0.21999999999999997
+208,Syphilis,1.14,1.09,1.11,1.2,0.06000000000000005
+209,Testicular cancer,0.13,0.14,0.14,0.14,0.010000000000000009
+210,Tetanus,0.73,0.34,0.32,0.29,-0.44
+211,Thalassemias,0.19,0.17,0.16,0.15,-0.04000000000000001
+212,Thyroid cancer,0.55,0.53,0.53,0.53,-0.020000000000000018
+213,Thyroid diseases,0.42,0.41,0.41,0.41,-0.010000000000000009
+214,"Tracheal, bronchus, and lung cancer",25.87,23.73,23.54,23.5,-2.370000000000001
+215,Typhoid fever,2.07,1.47,1.38,1.3,-0.7699999999999998
+216,Ulcerative colitis,0.53,0.47,0.46,0.45,-0.08000000000000002
+217,Unintentional firearm injuries,0.22,0.18,0.17,0.17,-0.04999999999999999
+218,Upper respiratory infections,0.35,0.29,0.29,0.28,-0.06999999999999995
+219,Urinary tract infections and interstitial nephritis,3.27,3.8,3.76,3.71,0.43999999999999995
+220,Urogenital congenital anomalies,0.14,0.13,0.12,0.12,-0.020000000000000018
+221,Urolithiasis,0.2,0.22,0.21,0.21,0.009999999999999981
+222,Uterine cancer,1.18,1.16,1.14,1.14,-0.040000000000000036
+223,Uterine fibroids,0.03,0.03,0.02,0.02,-0.009999999999999998
+224,Varicella and herpes zoster,0.24,0.2,0.2,0.19,-0.04999999999999999
+225,Vascular intestinal disorders,1.41,1.18,1.15,1.12,-0.2899999999999998
+226,Venomous animal contact,1.32,1.04,1.0,0.98,-0.3400000000000001
+227,Visceral leishmaniasis,0.2,0.08,0.07,0.07,-0.13
+228,Yellow fever,0.11,0.07,0.06,0.06,-0.05
+229,Zika virus,0.0,0.0,0.0,0.0,0.0
