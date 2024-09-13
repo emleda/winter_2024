@@ -1,2 +1,3 @@
 # winter_2024
-Sydney Precision Data Centre Winter Data Analysis Challlenge
+2nd Place Award - Sydney Precision Data Centre Winter Data Analysis Challenge
+
